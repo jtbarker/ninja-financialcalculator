@@ -1,0 +1,4 @@
+ninja-financialcalculator
+=========================
+
+loan calculator
